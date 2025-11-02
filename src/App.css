@@ -5,7 +5,10 @@ body{
 a {
     color: #1f1fd5;
 }
-
+.App{
+    margin: o auto;
+    max-width: 960px;
+}
 .App-Header{
     margin: 30px 0;
 }
